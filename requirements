@@ -1,0 +1,9 @@
+opencv-python
+numpy
+scikit-learn
+Pillow
+tensorflow
+opencv-contrib-python
+gradio
+fer
+mtcnn
